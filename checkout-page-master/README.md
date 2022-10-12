@@ -47,7 +47,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 - [Html](https://html.org/)
 - [CSS](https://css.org/)
-
+- [JavaScript](https://javascript.org/)
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
